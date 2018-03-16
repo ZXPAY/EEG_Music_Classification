@@ -1,0 +1,92 @@
+SVM Score : 0.7406281661600811
+Tree Score : 0.6666666666666666
+Bayes Score : 0.524822695035461
+KNN Score : 1.0
+XGB Score : 0.922998986828774
+Stacking Score : 1.0
+Voting Score : 0.9331306990881459
+Bagging Score : 1.0
+RF Score : 1.0
+Adaboost Score : 0.8115501519756839
+Adaboost Score : 0.8115501519756839
+XXXX
+******************
+SVM :              precision    recall  f1-score   support
+
+        0.0       0.78      0.71      0.75       531
+        1.0       0.70      0.77      0.73       456
+
+avg / total       0.74      0.74      0.74       987
+
+******************
+Tree :              precision    recall  f1-score   support
+
+        0.0       0.65      0.84      0.73       531
+        1.0       0.71      0.46      0.56       456
+
+avg / total       0.68      0.67      0.65       987
+
+******************
+Bayes :              precision    recall  f1-score   support
+
+        0.0       0.61      0.32      0.42       531
+        1.0       0.49      0.76      0.60       456
+
+avg / total       0.55      0.52      0.50       987
+
+******************
+KNN :              precision    recall  f1-score   support
+
+        0.0       1.00      1.00      1.00       531
+        1.0       1.00      1.00      1.00       456
+
+avg / total       1.00      1.00      1.00       987
+
+******************
+XGB :              precision    recall  f1-score   support
+
+        0.0       0.95      0.91      0.93       531
+        1.0       0.90      0.94      0.92       456
+
+avg / total       0.92      0.92      0.92       987
+
+******************
+Stacking :              precision    recall  f1-score   support
+
+        0.0       1.00      1.00      1.00       531
+        1.0       1.00      1.00      1.00       456
+
+avg / total       1.00      1.00      1.00       987
+
+******************
+Voting :              precision    recall  f1-score   support
+
+        0.0       0.97      0.90      0.94       531
+        1.0       0.89      0.97      0.93       456
+
+avg / total       0.94      0.93      0.93       987
+
+******************
+Bagging :              precision    recall  f1-score   support
+
+        0.0       1.00      1.00      1.00       531
+        1.0       1.00      1.00      1.00       456
+
+avg / total       1.00      1.00      1.00       987
+
+******************
+RF :              precision    recall  f1-score   support
+
+        0.0       1.00      1.00      1.00       531
+        1.0       1.00      1.00      1.00       456
+
+avg / total       1.00      1.00      1.00       987
+
+******************
+Adaboost :              precision    recall  f1-score   support
+
+        0.0       0.83      0.81      0.82       531
+        1.0       0.79      0.81      0.80       456
+
+avg / total       0.81      0.81      0.81       987
+
